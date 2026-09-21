@@ -7,7 +7,7 @@ Maria Sophia Pereira Cavalcante
 603439
 
 ## Com quem você fez essa atividade?
-Sozinha, com ajuda do meu irmão (Kauan, veterano) e daniel (faz web2 com o senhor). Também pesquisei no google algumas dúvidas, com o to string.
+Sozinha, com ajuda do meu irmão (Kauan, veterano) e daniel (faz web2 com o senhor). Também pesquisei no google algumas dúvidas, como o to string.
 
 ## Dificuldades encontradas e aprendizado
 Não saber usar o github, alguns requisitos exigiam uma maior interpretação e as vezes não entendia o que realmente tinha que ter no método, mas no final consegui entender melhor, aprendi melhor como fazer métodos e sobre to string, acredito que melhorei meu conhecino em java.
