@@ -1,0 +1,7 @@
+name: Testes
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+jobs:
+  testes:
+    uses: profBruno-UFC-Qx/kit-projeto-final/.github/workflows/testes.yml@main
