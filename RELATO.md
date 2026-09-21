@@ -1,30 +1,28 @@
 # :memo: Relato da Atividade
 
 ## Nome
-_Seu nome completo._
+Maria Sophia Pereira Cavalcante
 
 ## Matrícula
-_Seu número de matrícula._
+603934
 
 ## Com quem você fez essa atividade?
-_Ex: "Sozinho", "Sozinho, mas discuti dúvidas com Fulano"._
+Sozinha, com ajuda de dois veteranos que moram comigo (Kauan (meu irmão) e daniel (da sua turma de web2) e tirando algumas dúvidas no google, como por exemplo sobre o metodo too string.
 
 ## Dificuldades encontradas e aprendizado
-_Quais foram as principais dificuldades? O que você aprendeu com essa atividade?_
+Alguns requisitos confundiram um pouco e também tive que me esforçar para entender como fazer em métodos(talvez seja o proposito da atividade), e aprender a usar o github, acho que os requisitos poderiam estar melhor detalhados, como por exemplo a too string. Aprendi a usar o github, e melhorei minha lógica e linguagem em java, mesmo esauecendo que colocar public ou private na frente.
 
 ## Grau de dificuldade (1 a 5)
-_1 = Muito fácil, 5 = Muito difícil._
+4 - achei razoavel
 
 ## O quão interessante foi o problema proposto (1 a 5)
-_1 = Muito chato, 5 = Muito interessante._
+4 - foi muito legal resolver meus erros
 
 ## Tempo gasto
-_Tempo total, incluindo revisão de material, vídeos e programação (em horas)._
+acho que em torno de 2hr, não cronometrei, mas fiz pausas pra surtar durante
 
 ## :robot: Uso de ferramentas de Inteligência Artificial
-_Você usou alguma ferramenta de IA (ex: ChatGPT, Claude, GitHub Copilot) para resolver essa
-atividade? Se sim, indique qual(is) ferramenta(s), em quais partes você usou e como ela ajudou.
-Se não usou, indique "Não utilizei"._
+Não utilizei, so o google, sou irada.
 
 <!-- kit:fim-secoes-genericas -->
 <!--
